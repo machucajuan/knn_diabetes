@@ -1,3 +1,5 @@
 # knn_diabetes
-Ejemplo de modelo de aprendizaje supervisado utilizando el algoritmo KNN con la librería scikit-learn en Python. 
+ENG: Example of a supervised learning model using the KNN algorithm with the scikit-learn library in Python. The data was taken from Kaggle in this [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed) and the model was made following this [example](https://www.slideshare.net/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn)
+
+ESP: Ejemplo de modelo de aprendizaje supervisado utilizando el algoritmo KNN con la librería scikit-learn en Python. 
 Los datos fueron sacados de Kaggle en este [link](https://www.kaggle.com/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed) y el modelo se realizó siguiendo este [ejemplo](https://www.slideshare.net/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn/Simplilearn/knearest-neighbor-classification-algorithm-how-knn-algorithm-works-knn-algorithm-simplilearn)
